@@ -1,4 +1,4 @@
-# SUMMER-OLYMPICS-DATA-ANALYSIS
+# SUMMER-OLYMPICS-DATA-ANALYSIS(ETG)
 
 #INTRODUCTION
 This task is assigned by ETG.This is the second assignment.In this I've solved the questions asked by them on the basis of provided summer olympics dataset.
