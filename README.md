@@ -1,23 +1,50 @@
-# SUMMER-OLYMPICS-DATA-ANALYSIS(ETG)
+## Summer Olympics Data Analysis
+This project uses Python and Jupyter Notebook to analyze data from the Summer Olympics. The analysis answers several key questions about the games, such as the number of cities hosting the Olympics, top sports by medals, the best-performing athletes, and more.
 
-# INTRODUCTION
-This task is assigned by ETG.This is the second assignment.In this I've solved the questions asked by them on the basis of provided summer olympics dataset.
+## Questions Answered:
+1. In how many cities has the Summer Olympics been held so far?
 
-QUESTION1- In how many cities Summer Olympics is held so far?
+2. Which sport has the most number of Gold Medals? (Top 5)
 
-QUESTION2-Which sport is having most number of Gold Medals so far? (Top 5)
+3. Which sport has the most number of total medals? (Top 5)
 
-QUESTION3-Which sport is having most number of medals so far? (Top 5)
+4. Which athlete has won the most number of medals? (Top 5)
 
-QUESTION4-Which player has won most number of medals? (Top 5)
+5. Which athlete has won the most Gold Medals? (Top 5)
 
-QUESTION5-Which player has won most number Gold Medals of medals? (Top 5)
+6. In which year did India win its first Gold Medal?
 
-QUESTION6- In which year India won first Gold Medal in Summer Olympics?
+7. Which event is the most popular in terms of the number of players? (Top 5)
 
-QUESTION7-Which event is most popular in terms on number of players? (Top 5)
+8. Which sport has the most female Gold Medalists? (Top 5)
 
-QUESTION8-Which sport is having most female Gold Medalists? (Top 5)
+## Technologies Used:
+⦿ Python
 
-# ABOUT THE PROJECT
-For analysing the data,Pandas is used.The raw dataset of summer olympics and questions are provided by ETG instructor.I have to give answers of the provided questions and plot a graph in some.
+⦿ Jupyter Notebook
+
+⦿ Pandas
+
+⦿ Matplotlib
+
+## Dataset:
+This project utilizes a dataset of Summer Olympics data (in CSV format) to perform the analysis.
+
+## Getting Started:
+Clone the repository.
+
+Install the required dependencies:
+```
+pip install pandas matplotlib
+```
+Open the Jupyter Notebook file (Summer_olympics_Analysis_task2.ipynb).
+
+Run the notebook cells to perform the analysis.
+
+## Project Structure:
+```mathematica
+/Summer-Olympics-Data-Analysis
+  ├── Summer_olympics_Analysis_task2.ipynb
+  ├── summer.csv (Dataset file)
+  └── README.md
+```
